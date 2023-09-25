@@ -17,7 +17,7 @@ export const fetchContacts = createAsyncThunk(
 
 /* 
 
-? limitarea numarului de telefon la 10 caractere
+? limitarea numarului de telefon la 10 caractere:
  
 
 export const fetchContacts = createAsyncThunk(
